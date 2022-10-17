@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+
+
+.StayContainer{
+    background-color: #214554;
+    color:white;
+}
+.leftdiv{
+    margin-top: 1%;
+    margin-left: 5%;
+    display: inline-block;
+    width: 65%;
+    margin-bottom: 1%;
+}
+
+.leftdiv h1,p{
+    margin-left: 5%;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+}
+
+.leftdiv p{
+    font-size: 24px;
+}
+
+.rightdiv{
+    display: inline-block; 
+    margin-left: 15%;
+}
+
+.rightdiv button{
+    background-color: white;
+    color: black;
+    font-size:20px ;
+    border-radius: 10%;
+}
